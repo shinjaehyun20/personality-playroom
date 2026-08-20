@@ -35,8 +35,8 @@
     },
     {
       "path": "assets/og-cover.png",
-      "bytes": 289006,
-      "sha256": "b6d0eeab7b3035450ff49d960798ec3ee3737fde08e86c8c33c1e943c7c37fba"
+      "bytes": 288374,
+      "sha256": "1775776794e06441dbfd24c25a70130df4a5ca916cd362e62b1a54e3d338f89e"
     },
     {
       "path": "assets/personality-playroom-hero.png",
@@ -145,8 +145,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 26541,
-      "sha256": "9734d121ff5b22295658ae4760778f47fd41d8aefa44ebcba1b7f5bd37e87541"
+      "bytes": 26672,
+      "sha256": "3d0a8904b633386b8e13d0c1b8476ca0e5809c93d3ee46d6408deb62c4f020ed"
     },
     {
       "path": "prototypes/wireframe.html",
