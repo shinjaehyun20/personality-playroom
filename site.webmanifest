@@ -1,0 +1,11 @@
+{
+  "name": "선택코드 플레이룸",
+  "short_name": "선택코드",
+  "description": "24개의 선택으로 오늘의 4글자 플레이 코드와 결과 카드를 만드는 비공식 놀이 퀴즈",
+  "lang": "ko-KR",
+  "start_url": "/personality-playroom/",
+  "display": "standalone",
+  "background_color": "#fffaf1",
+  "theme_color": "#fffaf1",
+  "icons": [{"src": "assets/favicon.svg", "sizes": "any", "type": "image/svg+xml"}]
+}

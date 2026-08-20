@@ -1,6 +1,6 @@
 {
   "project": "rhythm-compass",
-  "version": 5,
+  "version": 6,
   "reference_research": {
     "source": "https://x.com/mycodemc/status/2087072696870060428",
     "observed": "centered hero, sparse space, illustration-first quiz funnel",
@@ -34,6 +34,11 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "assets/favicon.svg",
+      "bytes": 286,
+      "sha256": "86efe93bd00525153d845798399ea9ffc87aba848fe9bcf1288ac9b8dd23d01d"
+    },
+    {
       "path": "assets/og-cover.png",
       "bytes": 288374,
       "sha256": "1775776794e06441dbfd24c25a70130df4a5ca916cd362e62b1a54e3d338f89e"
@@ -47,6 +52,21 @@
       "path": "assets/rhythm-compass-hero.png",
       "bytes": 2125928,
       "sha256": "137b77bbe85555ed4f580aff83385a3cf744cc3348f51330034866371310143f"
+    },
+    {
+      "path": "assets/social/instagram-share.png",
+      "bytes": 496585,
+      "sha256": "35dec12e9bd1601508c6a0c59d4f752e06d2238629e67ee08a95bfaf123fe36b"
+    },
+    {
+      "path": "assets/social/threads-share.png",
+      "bytes": 392108,
+      "sha256": "7069c6ded5cf6895a43109d506bc984416eae359293feea31b29f080aea57c00"
+    },
+    {
+      "path": "assets/social/x-share.png",
+      "bytes": 451983,
+      "sha256": "81880a1b2f959351b16fa3f25ac7e11c26b59af5e7d1cfb8b64d4acb46e812db"
     },
     {
       "path": "assets/types/ENFJ.png",
@@ -135,8 +155,8 @@
     },
     {
       "path": "docs/design/rhythm-compass-design.md",
-      "bytes": 2073,
-      "sha256": "d1731e65aeb21f6c038a0a4a34264bff296536c31e9a929a1e124e1dd5d904f2"
+      "bytes": 2737,
+      "sha256": "e0e986ecff1097c8c9063f17d3f2440b1c42aa43f9586eea4a301784f39fdfdb"
     },
     {
       "path": "docs/plans/2026-08-19-implementation-plan.md",
@@ -144,9 +164,34 @@
       "sha256": "80e2da3456cc93ab1b595d65a5adfb477fed90f57d730d4411738f78ebf167ae"
     },
     {
+      "path": "docs/publication/instagram.md",
+      "bytes": 1427,
+      "sha256": "5f739cfe92005b1c460e47debfe71b9658c89c0d105181e5d504430f3b8f8857"
+    },
+    {
+      "path": "docs/publication/README.md",
+      "bytes": 1407,
+      "sha256": "0d2bfe2347c89dd558b3401e274d41b54398fccf8004fffd6b853b763bcd1dee"
+    },
+    {
+      "path": "docs/publication/seo-aeo-geo-checklist.md",
+      "bytes": 2415,
+      "sha256": "b18059620f6ae976f4217b369d0931f68ff633437a0d54ef03249cdcf6037618"
+    },
+    {
+      "path": "docs/publication/threads.md",
+      "bytes": 748,
+      "sha256": "c11b61dc8fb907e0c7c9436fa16609c7d134a34c64bd935be966e84be4ef5cea"
+    },
+    {
+      "path": "docs/publication/x.md",
+      "bytes": 752,
+      "sha256": "1386ae07512f4b065d8204ba07c31548d9f1e45239822de62d2f7ac101bc606a"
+    },
+    {
       "path": "index.html",
-      "bytes": 26672,
-      "sha256": "3d0a8904b633386b8e13d0c1b8476ca0e5809c93d3ee46d6408deb62c4f020ed"
+      "bytes": 28284,
+      "sha256": "751fe46af7cb15b3bc28817d9443bd7fb034ddd63243735600d26cc7d640e897"
     },
     {
       "path": "prototypes/wireframe.html",
@@ -155,8 +200,23 @@
     },
     {
       "path": "README.md",
-      "bytes": 1658,
-      "sha256": "495f5586ecaf3a71fe737eb4a063f7120e6dd11444756befc1fb13a5a634096c"
+      "bytes": 2768,
+      "sha256": "6931e91d3e8415ce36e08b099542b255be4c30e3756158c2cbd548aa1974585c"
+    },
+    {
+      "path": "robots.txt",
+      "bytes": 98,
+      "sha256": "8ad2d879baad900aef2a6ede9ccee735110d730c24f52424a19b593813ab9bcc"
+    },
+    {
+      "path": "site.webmanifest",
+      "bytes": 438,
+      "sha256": "d90595d3b7ec9ec5693421a729a421846c7eea1e8af249ea740ce0dc32c873b2"
+    },
+    {
+      "path": "sitemap.xml",
+      "bytes": 262,
+      "sha256": "293ab45371c33ff4bdf8ff8c6761e6bb66c9576c7ea961b21fe129ced4772ac2"
     }
   ],
   "product_update": {
