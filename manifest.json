@@ -145,8 +145,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 23881,
-      "sha256": "91393da1ce4dedea7e48c398e705763bbb2d6b50887a85fc782f3f604376cfc9"
+      "bytes": 23880,
+      "sha256": "229ff300c6a1aeae2dd0ded34843564f5d982bf91f6c5b413b7887624b38b21e"
     },
     {
       "path": "prototypes/wireframe.html",
