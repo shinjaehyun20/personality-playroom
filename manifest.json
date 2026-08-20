@@ -1,6 +1,6 @@
 {
   "project": "rhythm-compass",
-  "version": 4,
+  "version": 5,
   "reference_research": {
     "source": "https://x.com/mycodemc/status/2087072696870060428",
     "observed": "centered hero, sparse space, illustration-first quiz funnel",
@@ -35,8 +35,8 @@
     },
     {
       "path": "assets/og-cover.png",
-      "bytes": 343954,
-      "sha256": "26f2352934b5dcb55d7672f8715004234ad076141ee8af019ab577dd58385556"
+      "bytes": 289006,
+      "sha256": "b6d0eeab7b3035450ff49d960798ec3ee3737fde08e86c8c33c1e943c7c37fba"
     },
     {
       "path": "assets/personality-playroom-hero.png",
@@ -145,8 +145,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 23880,
-      "sha256": "229ff300c6a1aeae2dd0ded34843564f5d982bf91f6c5b413b7887624b38b21e"
+      "bytes": 26541,
+      "sha256": "9734d121ff5b22295658ae4760778f47fd41d8aefa44ebcba1b7f5bd37e87541"
     },
     {
       "path": "prototypes/wireframe.html",
@@ -155,8 +155,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 1408,
-      "sha256": "67e2289130b9f807fa9cb775ae27ad5c78e9996af276b0bd2bedc1f41b5e5aa5"
+      "bytes": 1658,
+      "sha256": "495f5586ecaf3a71fe737eb4a063f7120e6dd11444756befc1fb13a5a634096c"
     }
   ],
   "product_update": {
@@ -181,6 +181,8 @@
       "og:url",
       "og:image",
       "twitter:card"
-    ]
+    ],
+    "result_card": "browser-generated 1200x630 PNG; Web Share with image where supported, otherwise PNG download plus copied share text",
+    "og_cover_review": "replaced unreadable placeholder bars with Korean hook copy and CTA"
   }
 }
