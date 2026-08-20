@@ -1,0 +1,159 @@
+{
+  "project": "rhythm-compass",
+  "version": 3,
+  "reference_research": {
+    "source": "https://x.com/mycodemc/status/2087072696870060428",
+    "observed": "centered hero, sparse space, illustration-first quiz funnel",
+    "adopted": "funnel only",
+    "excluded": [
+      "brand",
+      "copy",
+      "MBTI taxonomy",
+      "rarity claims",
+      "character art",
+      "psychological claims"
+    ]
+  },
+  "asset": {
+    "path": "assets/personality-playroom-hero.png",
+    "origin": "original generated asset",
+    "generator": "OpenAI gpt-image-2-medium",
+    "source_cache": "C:/Users/jaehy/AppData/Local/hermes/cache/images/openai_codex_gpt-image-2-medium_20260819_113504_d7068452.png",
+    "do": "four distinct non-human paper-cut mascots, fun psychology quiz theme, no text or logos",
+    "dont": "reference character art, copied brand, typography, UI, watermark"
+  },
+  "files": [
+    {
+      "path": "assets/personality-playroom-hero.png",
+      "bytes": 2193184,
+      "sha256": "3b9006a57db648536d9ce366bf5c83ee5a4ee83f2a3e47f0e00efd5b1e27d210"
+    },
+    {
+      "path": "assets/rhythm-compass-hero.png",
+      "bytes": 2125928,
+      "sha256": "137b77bbe85555ed4f580aff83385a3cf744cc3348f51330034866371310143f"
+    },
+    {
+      "path": "assets/types/ENFJ.png",
+      "bytes": 2297774,
+      "sha256": "1348346fb11584ac0ed51b775c3c1bed5af44725963acf817f1b3ce344d5543f"
+    },
+    {
+      "path": "assets/types/ENFP.png",
+      "bytes": 1780653,
+      "sha256": "6de85b77b678681021db122668338f9976899ed7c5cee2afab944a271a115272"
+    },
+    {
+      "path": "assets/types/ENTJ.png",
+      "bytes": 1865261,
+      "sha256": "e659d247587a143f6fdc35207014c4bc11bf186628abc6b570151287551755a4"
+    },
+    {
+      "path": "assets/types/ENTP.png",
+      "bytes": 2504431,
+      "sha256": "5be321f011b39806e3221e0c4948a892b1d3dca7225b47c21c990abce97da117"
+    },
+    {
+      "path": "assets/types/ESFJ.png",
+      "bytes": 2600799,
+      "sha256": "bdc8f18daf9910ec6ea17fdc6476f39f6bfdf248e6ea8ace5ac62f526a8957ee"
+    },
+    {
+      "path": "assets/types/ESFP.png",
+      "bytes": 1949375,
+      "sha256": "debd1b9c3df701f31de59d0c1288fcd1204059fd75c0a3d99d3dd18f19958471"
+    },
+    {
+      "path": "assets/types/ESTJ.png",
+      "bytes": 2338105,
+      "sha256": "ff999162ffc637ad15cd064748d493740abd1faf67ee08f50814cd79bc891741"
+    },
+    {
+      "path": "assets/types/ESTP.png",
+      "bytes": 2541466,
+      "sha256": "19c2d790e84d1a7b7bb875b5dbf37324ab93939b9b2d983999dc8c1c5b9cfcfa"
+    },
+    {
+      "path": "assets/types/INFJ.png",
+      "bytes": 2135555,
+      "sha256": "6c8a5ac01462ce25acd14e61c919d9217dd255b344525ce22a77ca3623933cf5"
+    },
+    {
+      "path": "assets/types/INFP.png",
+      "bytes": 1977773,
+      "sha256": "915954d4dfca0223e8f84cf725ce3827fb127f549b633fadc19eb00a2c47f473"
+    },
+    {
+      "path": "assets/types/INTJ.png",
+      "bytes": 2324181,
+      "sha256": "6cc60ef7489f7bf54292731a220ea708d627dcd29040c4d39c54406306ed186c"
+    },
+    {
+      "path": "assets/types/INTP.png",
+      "bytes": 2410065,
+      "sha256": "54c2719258ff6328cd3d84e0e69e001327c6c73132de28ca5fcd21336fb4e350"
+    },
+    {
+      "path": "assets/types/ISFJ.png",
+      "bytes": 3279882,
+      "sha256": "ac07df58bdd18eaef9f58e3c6d17d4e3cea4d0b7c642b1f0a69cc43a03350cdf"
+    },
+    {
+      "path": "assets/types/ISFP.png",
+      "bytes": 2414816,
+      "sha256": "f2176111d605eeda69d14a7969597ef14aad02be2a93c60065e6f69798475718"
+    },
+    {
+      "path": "assets/types/ISTJ.png",
+      "bytes": 2518253,
+      "sha256": "5eee43384555e88239e792528b6f232ba91279b61318c41ce8d3256bd75dbf17"
+    },
+    {
+      "path": "assets/types/ISTP.png",
+      "bytes": 2406567,
+      "sha256": "03faeb63896881464006f34b20c8d0e2f1be097afd438d6ed5da7923ccc43d01"
+    },
+    {
+      "path": "docs/adrs/0001-original-reference-translation.md",
+      "bytes": 787,
+      "sha256": "5655d1b84ef0d1f9459c99747fff19687b81e7dba11e6e0ff7d10f9cf58fbabe"
+    },
+    {
+      "path": "docs/design/rhythm-compass-design.md",
+      "bytes": 2073,
+      "sha256": "d1731e65aeb21f6c038a0a4a34264bff296536c31e9a929a1e124e1dd5d904f2"
+    },
+    {
+      "path": "docs/plans/2026-08-19-implementation-plan.md",
+      "bytes": 503,
+      "sha256": "80e2da3456cc93ab1b595d65a5adfb477fed90f57d730d4411738f78ebf167ae"
+    },
+    {
+      "path": "index.html",
+      "bytes": 22367,
+      "sha256": "006891d6b079ab5d9e4cfef8d7997e36cf36e1e8d5926db3b859ed201db07d81"
+    },
+    {
+      "path": "prototypes/wireframe.html",
+      "bytes": 1158,
+      "sha256": "434e1593576e4ffed283f1e972cea95e7740e9f566c0f07626f9a617e196ed3c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1408,
+      "sha256": "67e2289130b9f807fa9cb775ae27ad5c78e9996af276b0bd2bedc1f41b5e5aa5"
+    }
+  ],
+  "product_update": {
+    "date": "2026-08-20",
+    "scope": "24 scenario choices, 6 prompts per preference axis, 16 playful result cards; no diagnostic or rarity claims",
+    "research_source": "https://www.myersbriggs.org/my-mbti-personality-type/myers-briggs-overview/",
+    "research_read_status": "direct canonical URL fetched (HTTP 200)"
+  },
+  "character_illustrations": {
+    "count": 16,
+    "origin": "original generated character illustrations",
+    "mapping": "assets/types/<MBTI-style-code>.png",
+    "research": "Myers-Briggs official overview was read for preference-pair/16-type taxonomy; product remains a non-diagnostic entertainment quiz"
+  }
+}
