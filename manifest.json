@@ -1,6 +1,6 @@
 {
   "project": "rhythm-compass",
-  "version": 3,
+  "version": 4,
   "reference_research": {
     "source": "https://x.com/mycodemc/status/2087072696870060428",
     "observed": "centered hero, sparse space, illustration-first quiz funnel",
@@ -23,6 +23,21 @@
     "dont": "reference character art, copied brand, typography, UI, watermark"
   },
   "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 20,
+      "sha256": "2bdfdb216230559f36faf46907142b8afd478401150f810e1ddaf9a4fdcc656c"
+    },
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "assets/og-cover.png",
+      "bytes": 343954,
+      "sha256": "26f2352934b5dcb55d7672f8715004234ad076141ee8af019ab577dd58385556"
+    },
     {
       "path": "assets/personality-playroom-hero.png",
       "bytes": 2193184,
@@ -130,8 +145,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 22367,
-      "sha256": "006891d6b079ab5d9e4cfef8d7997e36cf36e1e8d5926db3b859ed201db07d81"
+      "bytes": 23881,
+      "sha256": "91393da1ce4dedea7e48c398e705763bbb2d6b50887a85fc782f3f604376cfc9"
     },
     {
       "path": "prototypes/wireframe.html",
@@ -155,5 +170,17 @@
     "origin": "original generated character illustrations",
     "mapping": "assets/types/<MBTI-style-code>.png",
     "research": "Myers-Briggs official overview was read for preference-pair/16-type taxonomy; product remains a non-diagnostic entertainment quiz"
+  },
+  "sharing": {
+    "public_url": "https://shinjaehyun20.github.io/personality-playroom/",
+    "og_image": "assets/og-cover.png",
+    "og_dimensions": "1200x630",
+    "tags": [
+      "og:title",
+      "og:description",
+      "og:url",
+      "og:image",
+      "twitter:card"
+    ]
   }
 }
