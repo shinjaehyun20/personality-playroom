@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://shinjaehyun20.github.io/personality-playroom/sitemap.xml
